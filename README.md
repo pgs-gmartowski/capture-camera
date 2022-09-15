@@ -34,7 +34,7 @@ Simple application for capturing users phone camera 📷 with just HTML 😲 ⭐
 
 ### Built With
 
-* TSNode
+* [Vite](https://vitejs.dev/)
 * [Typescript](https://www.typescriptlang.org/)
 <p>(<a href="#readme-top">back to top</a>)</p>
 
